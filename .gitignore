@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ConsoleApp1/FileContentIndex/cb3ca212-9092-498b-9aef-e7f2b83c89d7.vsidx
+*.vsidx
