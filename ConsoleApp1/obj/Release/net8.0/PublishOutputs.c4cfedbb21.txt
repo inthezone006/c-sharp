@@ -1,0 +1,5 @@
+C:\Users\rahul\publish\Dealership\Dealership.exe
+C:\Users\rahul\publish\Dealership\Dealership.dll
+C:\Users\rahul\publish\Dealership\Dealership.deps.json
+C:\Users\rahul\publish\Dealership\Dealership.runtimeconfig.json
+C:\Users\rahul\publish\Dealership\Dealership.pdb

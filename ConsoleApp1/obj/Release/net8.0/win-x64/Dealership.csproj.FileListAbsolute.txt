@@ -1,0 +1,15 @@
+C:\Users\rahul\Programming\c-sharp\ConsoleApp1\bin\Release\net8.0\win-x64\Dealership.exe
+C:\Users\rahul\Programming\c-sharp\ConsoleApp1\bin\Release\net8.0\win-x64\Dealership.deps.json
+C:\Users\rahul\Programming\c-sharp\ConsoleApp1\bin\Release\net8.0\win-x64\Dealership.runtimeconfig.json
+C:\Users\rahul\Programming\c-sharp\ConsoleApp1\bin\Release\net8.0\win-x64\Dealership.dll
+C:\Users\rahul\Programming\c-sharp\ConsoleApp1\bin\Release\net8.0\win-x64\Dealership.pdb
+C:\Users\rahul\Programming\c-sharp\ConsoleApp1\obj\Release\net8.0\win-x64\Dealership.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahul\Programming\c-sharp\ConsoleApp1\obj\Release\net8.0\win-x64\Dealership.AssemblyInfoInputs.cache
+C:\Users\rahul\Programming\c-sharp\ConsoleApp1\obj\Release\net8.0\win-x64\Dealership.AssemblyInfo.cs
+C:\Users\rahul\Programming\c-sharp\ConsoleApp1\obj\Release\net8.0\win-x64\Dealership.csproj.CoreCompileInputs.cache
+C:\Users\rahul\Programming\c-sharp\ConsoleApp1\obj\Release\net8.0\win-x64\Dealership.sourcelink.json
+C:\Users\rahul\Programming\c-sharp\ConsoleApp1\obj\Release\net8.0\win-x64\Dealership.dll
+C:\Users\rahul\Programming\c-sharp\ConsoleApp1\obj\Release\net8.0\win-x64\refint\Dealership.dll
+C:\Users\rahul\Programming\c-sharp\ConsoleApp1\obj\Release\net8.0\win-x64\Dealership.pdb
+C:\Users\rahul\Programming\c-sharp\ConsoleApp1\obj\Release\net8.0\win-x64\Dealership.genruntimeconfig.cache
+C:\Users\rahul\Programming\c-sharp\ConsoleApp1\obj\Release\net8.0\win-x64\ref\Dealership.dll
