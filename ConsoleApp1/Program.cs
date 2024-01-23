@@ -65,7 +65,7 @@ class programOps
         Console.WriteLine("Model: " + createdVehicle.getModel() + "\n" + divider);
     }
 
-    public static void removeVehicle(int index)
+    public static void RemoveVehicle(int index)
     {
         Console.WriteLine(divider);
         index--;
@@ -165,7 +165,7 @@ class programOps
                 case "2":
                     Console.WriteLine("Which vehicle would you like to remove?");
                     programOps.viewVehicles();
-                    programOps.removeVehicle(Int32.Parse(Console.ReadLine()));
+                    programOps.RemoveVehicle(Int32.Parse(Console.ReadLine()));
                     break;
                 case "3":
                     Console.WriteLine("Which vehicle would you like to edit?");
